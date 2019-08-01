@@ -15,6 +15,7 @@ public class LoginServlet extends javax.servlet.http.HttpServlet {
                 out.println("登陆成功！");
             }else{
                 out.println("信息错误！");
+                out.println("aaa");
             }
         }
     }
