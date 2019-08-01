@@ -18,6 +18,7 @@ public class LoginServlet extends javax.servlet.http.HttpServlet {
                 out.println("aaa");
                 out.println("bbbb");
                 out.println("ccc");
+                out.println("dddd");
             }
         }
     }
